@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "406188630998",
+    "firebase_url": "https://note-book-1458b-default-rtdb.firebaseio.com",
+    "project_id": "note-book-1458b",
+    "storage_bucket": "note-book-1458b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406188630998:android:c7e8e8c76c642a359b3a77",
+        "android_client_info": {
+          "package_name": "com.example.sqflite_notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406188630998-m28bt6oj6v32d17esbcdejei1ibq6io1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSloqKfeU4Zu3fUdIvvIpkriO_k8fBzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406188630998-m28bt6oj6v32d17esbcdejei1ibq6io1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406188630998-ko5abbu48mjrd9dej1i1q4um78gfu5du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sqfliteDatabasePractice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406188630998:android:b94659d459ac2b399b3a77",
+        "android_client_info": {
+          "package_name": "com.flutterigenagamu.loginRegisterBasicApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406188630998-m28bt6oj6v32d17esbcdejei1ibq6io1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSloqKfeU4Zu3fUdIvvIpkriO_k8fBzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406188630998-m28bt6oj6v32d17esbcdejei1ibq6io1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406188630998-ko5abbu48mjrd9dej1i1q4um78gfu5du.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sqfliteDatabasePractice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
